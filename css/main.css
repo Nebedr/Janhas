@@ -1,0 +1,121 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020-09-11, 10:38:09
+    Author     : Grzegorz
+*/
+html{
+  
+  text-decoration: none;
+}
+body{
+    color: white;
+    font-family: verdana;
+    background-color: black;
+   
+   
+    transition: 0.4s;
+  
+}
+header {
+  
+ 
+}
+header .img{
+    width: 100%;
+    height: auto;
+    
+}
+footer{
+    text-align: center;
+    transition: 0.4s;
+    margin-top: 30px;
+}
+
+
+footer a{
+    color: whitesmoke; 
+    transition: 0.4s;
+    text-decoration: none;
+    
+}
+
+footer a:hover{
+    color: saddlebrown; 
+    transition: 0.4s;
+    text-decoration: none;
+    
+}
+
+
+
+.navbar-custom {
+    background-color: black;
+    transition: 0.4s;
+    text-decoration: none;
+    float: none
+}
+
+.navbar-custom ul{
+   width: 100%;
+}
+.navbar-custom li {
+    padding: 10px 100px 10px 100px;
+    transition: 0.4s;
+    justify-content: center;
+    text-decoration: none;
+}
+.navbar-custom li:hover {
+    
+    
+    transition: 0.4s;
+    color: white;
+    text-decoration: none;
+}
+
+.navbar-custom a li {
+    color: whitesmoke; 
+    text-align: center;
+    transition: 0.4s;
+    
+    text-decoration: none;
+   
+}
+.navbar-custom a li:hover{
+    color: saddlebrown;
+    text-decoration: none;
+    transition: 0.4s;
+    
+    
+}
+.navbar-custom ul a{
+    text-decoration: none;
+}
+.custom-toggler .navbar-toggler-icon { 
+            background-image: url(../img/hamb.png);
+} 
+.custom-toggler.navbar-toggler { 
+            border-color: white;
+}
+
+
+.container{
+    text-align: center;
+    padding: 10px;
+}
+.container-fluid img{
+    width: 100%;
+}
+
+
+
+
+    
+    
+
+
+
+

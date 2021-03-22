@@ -1,0 +1,271 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020-09-11, 10:38:09
+    Author     : Grzegorz
+*/
+html{
+  
+  text-decoration: none;
+}
+body{
+    color: white;
+    font-family: verdana;
+    background-color: black;
+   
+   
+    transition: 0.4s;
+  
+}
+header {
+  
+ 
+}
+header .img{
+    width: 100%;
+    height: auto;
+    
+}
+
+
+
+footer{
+    background: url(../img/359.jpg);
+    font-size: 0.8em;
+    background-size: cover;
+    text-align: justify;
+    padding: 10px;
+    color: white;
+    font-family: verdana;
+}
+#txt{
+    float: right;
+}
+
+.navbar-brand{
+    padding-left: 20px;
+}
+
+
+.navbar-custom {
+    background: url(../img/navbar.png);
+    transition: 0.4s;
+    text-decoration: none;
+    float: none
+    
+}
+.navbar-custom li {
+    
+    transition: 0.4s;
+    width: 100%;
+    min-width: 250px;
+    text-align: center;
+    text-decoration: none;
+}
+.navbar-custom li:hover {
+    
+    
+    transition: 0.4s;
+    color: white;
+    text-decoration: none;
+}
+
+.navbar-custom a li {
+    color: whitesmoke; 
+    text-align: center;
+    transition: 0.4s;
+    padding: 11px 0px 11px 0px;
+    text-decoration: none;
+}
+.navbar-custom a li:hover{
+    color: saddlebrown;
+    text-decoration: none;
+    transition: 0.4s;
+    
+    
+}
+.navbar-custom ul a{
+    text-decoration: none;
+}
+.custom-toggler .navbar-toggler-icon { 
+            background-image: url(../img/hamb.png);
+} 
+.custom-toggler.navbar-toggler { 
+            border-color: white;
+}
+
+.navbar navbar-expand-lg navbar-dark bg-custom li a:hover{
+    background-color: #096189;
+}
+.active{
+    background-color: #0B709A;
+    color: white;
+}
+.container{
+    padding: 50px 5px 50px 5px;
+}
+.row{
+    text-align: center;
+    
+}
+
+h2{
+    font-size: 100%;
+}
+.col-md-6{
+    margin-top: 11px;
+}
+.figure-caption{
+    color: white;
+}
+#banner h1{
+   font-family: papyrus;
+   font-size: 2em;
+   padding: 25px;
+}
+#PL{
+    
+    margin: 5px;
+    transition: 0.4s;
+
+    
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+
+#PL a{
+    color: #0B709A; 
+    text-align: center;
+    transition: 0.4s;
+    padding: 5px 5px 5px 5px;
+    text-decoration: none;
+}
+#PL a:hover{
+    
+    color: white;
+    text-decoration: none;
+    transition: 0.4s;
+}
+
+
+
+
+
+
+
+
+#EN{
+    
+    margin: 5px;
+    transition: 0.4s;
+   
+    
+    text-align: center;
+    text-decoration: none;
+}
+
+    
+#EN a{
+    color: #0B709A; 
+    text-align: center;
+    transition: 0.4s;
+    padding: 5px 5px 5px 5px;
+    text-decoration: none;
+}
+#EN a:hover{
+    color: white;
+    text-decoration: none;
+    transition: 0.4s;
+}
+
+#me1{
+    margin: 10px;
+    -webkit-box-shadow: 0px 0px 29px -8px rgba(0,99,148,1);
+-moz-box-shadow: 0px 0px 29px -8px rgba(0,99,148,1);
+box-shadow: 0px 0px 29px -8px rgba(0,99,148,1);
+border-radius: 25px;
+}
+#me2 h1{
+    font-family: papyrus;
+    
+}
+#me2{
+   
+    font-family: verdana;
+   
+    
+    text-decoration: none;
+}
+#me2 p{
+     transition: 0.4s;
+     
+}
+#me2 p a{
+    padding: 5px 5px 5px 25px;
+    text-decoration: none;
+     transition: 0.4s;
+     color: white;
+}
+#me2 a:hover{
+    color: #096189;
+    text-decoration: none;
+    transition: 0.4s;
+}
+#me{
+    padding: 50px 0px 50px 0px;
+}
+#me h1{
+    font-family: papyrus;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+#me3{
+    padding-top: 50px;
+    font-family: verdana;
+   
+    
+    text-decoration: none;
+}
+#me3 p{
+     transition: 0.4s;
+     
+}
+#me3 p a{
+    padding: 5px 5px 5px 25px;
+    text-decoration: none;
+     transition: 0.4s;
+     color: white;
+}
+#me3 a:hover{
+    color: #096189;
+    text-decoration: none;
+    transition: 0.4s;
+    
+   
+
+    
+    
+.progress {
+  margin-bottom: 20px;
+}
+
+.progress-bar {
+  width: 0;
+}
+
+.progress .progress-bar {
+  transition: unset;
+}    
+    
+    
+    
+
+
+
+
